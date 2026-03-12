@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![GitHub Stats](http://stats.pphat.top/stats?username=THYCHANTHOEURN&avatar_mode=radar&theme=default&data_border_style=frame)
+
+![Top Languages](https://stats.pphat.top/languages?username=THYCHANTHOEURN)
